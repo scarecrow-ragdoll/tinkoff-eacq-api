@@ -1,0 +1,17 @@
+{
+    "name": "scarecrow-ragdoll/tinkoff-eacq-api",
+    "require": {
+        "php": ">=7.1.3",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^6.0|^7.0"
+    },
+    "authors": [
+        {
+            "name": "scarecrow-ragdoll",
+            "email": "scarecrow.ragdoll@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^7.5 || ^8 || ^9"
+    }
+},
