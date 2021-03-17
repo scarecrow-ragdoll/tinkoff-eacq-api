@@ -1,5 +1,6 @@
 {
     "name": "scarecrow-ragdoll/tinkoff-eacq-api",
+    "description": "PHP client for Tinkoff EACQ API",
     "require": {
         "php": ">=7.1.3",
         "ext-json": "*",
@@ -10,8 +11,5 @@
             "name": "scarecrow-ragdoll",
             "email": "scarecrow.ragdoll@gmail.com"
         }
-    ],
-    "require-dev": {
-        "phpunit/phpunit": "^7.5 || ^8 || ^9"
-    }
-},
+    ]
+}
